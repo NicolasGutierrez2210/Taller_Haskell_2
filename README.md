@@ -24,9 +24,9 @@ Usar archivos .hs
 1. Guarda el código en un archivo, por ejemplo Ejercicio1.hs.
 2. En la terminal poner lo siguiente:
  ```bash
-ghc Ejercicio1.hs. -o Ejercicio
+ghc Ejercicio1.hs -o Ejercicio
  ```
-3.Ejecuta el programa compilado con:
+3. Ejecuta el programa compilado con:
 
 ```bash
 ./Ejercicio
