@@ -54,6 +54,17 @@ ghci Ejercicio.hs
 - **Python:** Pide un número entero y usa el operador módulo `%`.  (Archivo numpar_pyt.py) 
 - **Haskell:** Función que recibe un número entero y devuelve si es par o impar.  (Archivo numpa.hs )
 
+###  Problema 5: Obligación fiscal  
+- **Python:** Pide edad e ingresos y verifica si debe pagar impuestos según criterios.  
+- **Haskell:** Función que toma edad e ingresos y devuelve un booleano indicando si existe obligación fiscal.
+
+###  Problema 6: Asignación grupal  
+- **Python:** Pregunta al usuario su nombre y genero. Utiliza condicionales para determinar a qué grupo pertenece según los criterios definidos, e imprime el resultado.(Archivo ingresos_pyt.py) 
+- **Haskell:** Implementa una función que recibe el nombre y el género, y devuelve el grupo asignado. (Archivo 
+Ingresos.hs)
+
+
+
 
 
    
