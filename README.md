@@ -19,7 +19,7 @@ Comprender y aplicar la diferencia entre los paradigmas imperativo y declarativo
    ```bash
    python problema1.py
     ```
-   ###  Hazkell (declarativo)
+   ### Hazkell (declarativo)
   Usar archivos .hs
 1. Guarda el código en un archivo, por ejemplo Ejercicio1.hs.
 2. En la terminal poner lo siguiente:
