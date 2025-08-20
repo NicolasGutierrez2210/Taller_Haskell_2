@@ -63,6 +63,18 @@ ghci Ejercicio.hs
 - **Haskell:** Implementa una función que recibe el nombre y el género, y devuelve el grupo asignado. (Archivo 
 Ingresos.hs)
 
+## Problema 7: Evaluación de los empleados
+- **Python:** Lee la puntuación ingresada por el usuario y utiliza condicionales para determinar el nivel de rendimiento y la recompensa monetaria correspondiente. Imprime los resultados. (Archivo puntuacion_pyt.py)  
+- **Haskell:** Crea una función que recibe una puntuación y devuelve una tupla con el nivel de rendimiento y el importe de la recompensa. (Archivo Puntuaciones.hs)
+
+## Problema 8: Precios de Arcade
+- **Python:** Solicita la edad del cliente y utiliza condicionales para determinar el precio del boleto según la categoría de edad. Imprime el precio de la entrada. (Archivo arcade_pyt.py)  
+- **Haskell:** Implementa una función que recibe la edad y devuelve el precio del ticket en función de los criterios establecidos. (ArchivoPrecios_a.hs)
+
+## Problema 9: Pedido de pizza
+- **Python:** Pregunta al usuario si desea una pizza vegetariana. Dependiendo de su respuesta, muestra el menú correspondiente de ingredientes. Permite elegir un ingrediente adicional e imprime la descripción final de la pizza. (Archivo ingredientes_pyt.py)  
+- **Haskell:** Implementa una función que recibe la elección del usuario y el ingrediente seleccionado, devolviendo una descripción de la pizza e indicando si es vegetariana. (Archivo Ingredientesp.hs)
+
 
 
 
