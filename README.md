@@ -16,9 +16,9 @@ Comprender y aplicar la diferencia entre los paradigmas imperativo y declarativo
 1. Guarda el archivo con extensión `.py` (por ejemplo `problema1.py`).  
 2. Ejecuta en la terminal:  
 
-   ```bash
-   python problema1.py
-    ```
+ ```bash
+ python problema1.py
+  ```
 ### Hazkell (declarativo)
 Usar archivos .hs
 1. Guarda el código en un archivo, por ejemplo Ejercicio1.hs.
