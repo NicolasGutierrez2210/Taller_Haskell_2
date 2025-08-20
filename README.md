@@ -36,5 +36,16 @@ O bien, cargar el archivo directamente en GHCi:
 ghci Ejercicio.hs
 ```
 
+##  Problemas y en que archivos encontrarlos 
+
+###  Problema 1: Verificador de edad legal  
+- **Python:** Solicita la edad y verifica si es mayor de edad (>=18). (Archivo verific_edad.py )
+- **Haskell:** Función que recibe una edad y devuelve un mensaje indicando si es mayor de edad (Archivo Edad.hs)
+
+###  Problema 2: Verificación de contraseña  
+- **Python:** Solicita al usuario una contraseña y la compara con la almacenada, ignorando mayúsculas y minúsculas. (Archivo contraseña_pyt.py)
+- **Haskell:** Función que compara dos contraseñas (guardada y entrada del usuario) sin distinguir mayúsculas/minúsculas. (Archivo Contrase.hs)
+
+
 
    
