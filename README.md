@@ -46,6 +46,14 @@ ghci Ejercicio.hs
 - **Python:** Solicita al usuario una contraseña y la compara con la almacenada, ignorando mayúsculas y minúsculas. (Archivo contraseña_pyt.py)
 - **Haskell:** Función que compara dos contraseñas (guardada y entrada del usuario) sin distinguir mayúsculas/minúsculas. (Archivo Contrase.hs)
 
+### Problema 3: Calculadora de división  
+- **Python:** Pide dos números y maneja la excepción de división por cero con `try-except`. (Archivo calculadora_pyt.py)
+- **Haskell:** Función que divide dos números o devuelve un mensaje de error si el divisor es cero. (Archivo calculador.hs)
+
+###  Problema 4: Verificador par o impar  
+- **Python:** Pide un número entero y usa el operador módulo `%`.  (Archivo numpar_pyt.py) 
+- **Haskell:** Función que recibe un número entero y devuelve si es par o impar.  (Archivo numpa.hs )
+
 
 
    
