@@ -68,8 +68,8 @@ Genero.hs)
 - **Haskell:** Crea una función que recibe una puntuación y devuelve una tupla con el nivel de rendimiento y el importe de la recompensa. (Archivo Puntuaciones.hs)
 
 ### Problema 8: Precios de Arcade
-- **Python:** Solicita la edad del cliente y utiliza condicionales para determinar el precio del boleto según la categoría de edad. Imprime el precio de la entrada. (Archivo arcade_pyt.py)  
-- **Haskell:** Implementa una función que recibe la edad y devuelve el precio del ticket en función de los criterios establecidos. (ArchivoPrecios_a.hs)
+- **Python:** Solicita la edad del cliente y utiliza condicionales para determinar el precio del boleto según la categoría de edad. Imprime el precio de la entrada. (Archivo precio_pyt.py)  
+- **Haskell:** Implementa una función que recibe la edad y devuelve el precio del ticket en función de los criterios establecidos. (Archivo  Precios_a.hs)
 
 ### Problema 9: Pedido de pizza
 - **Python:** Pregunta al usuario si desea una pizza vegetariana. Dependiendo de su respuesta, muestra el menú correspondiente de ingredientes. Permite elegir un ingrediente adicional e imprime la descripción final de la pizza. (Archivo ingredientes_pyt.py)  
