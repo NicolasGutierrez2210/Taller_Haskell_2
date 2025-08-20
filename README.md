@@ -55,13 +55,13 @@ ghci Ejercicio.hs
 - **Haskell:** Función que recibe un número entero y devuelve si es par o impar.  (Archivo numpa.hs )
 
 ###  Problema 5: Obligación fiscal  
-- **Python:** Pide edad e ingresos y verifica si debe pagar impuestos según criterios.  
-- **Haskell:** Función que toma edad e ingresos y devuelve un booleano indicando si existe obligación fiscal.
+- **Python:** Pide edad e ingresos y verifica si debe pagar impuestos según criterios.  (Archivo ingresos_pyt.py) 
+- **Haskell:** Función que toma edad e ingresos y devuelve un booleano indicando si existe obligación fiscal.  (Archivo Ingresos.hs) 
 
 ###  Problema 6: Asignación grupal  
-- **Python:** Pregunta al usuario su nombre y genero. Utiliza condicionales para determinar a qué grupo pertenece según los criterios definidos, e imprime el resultado.  (Archivo ingresos_pyt.py) 
+- **Python:** Pregunta al usuario su nombre y genero. Utiliza condicionales para determinar a qué grupo pertenece según los criterios definidos, e imprime el resultado.  (Archivo genero_pyt.py) 
 - **Haskell:** Implementa una función que recibe el nombre y el género, y devuelve el grupo asignado. (Archivo 
-Ingresos.hs)
+Genero.hs)
 
 ### Problema 7: Evaluación de los empleados
 - **Python:** Lee la puntuación ingresada por el usuario y utiliza condicionales para determinar el nivel de rendimiento y la recompensa monetaria correspondiente. Imprime los resultados. (Archivo puntuacion_pyt.py)  
