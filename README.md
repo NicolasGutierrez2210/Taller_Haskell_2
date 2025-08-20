@@ -59,7 +59,7 @@ ghci Ejercicio.hs
 - **Haskell:** Función que toma edad e ingresos y devuelve un booleano indicando si existe obligación fiscal.
 
 ###  Problema 6: Asignación grupal  
-- **Python:** Pregunta al usuario su nombre y genero. Utiliza condicionales para determinar a qué grupo pertenece según los criterios definidos, e imprime el resultado.(Archivo ingresos_pyt.py) 
+- **Python:** Pregunta al usuario su nombre y genero. Utiliza condicionales para determinar a qué grupo pertenece según los criterios definidos, e imprime el resultado.  (Archivo ingresos_pyt.py) 
 - **Haskell:** Implementa una función que recibe el nombre y el género, y devuelve el grupo asignado. (Archivo 
 Ingresos.hs)
 
